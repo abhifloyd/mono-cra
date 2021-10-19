@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+ecare/node_modules
+onboarding/node_modules
+
+# build
+ecare/public
+onboarding/public
+
+# File System
+*.DS_Store
+Thumbs.db
+
+
+# Editor
+.vscode
+jsconfig.json
+/typings
+.idea
+*.iml

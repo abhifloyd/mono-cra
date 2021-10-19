@@ -1,0 +1,8 @@
+{
+    "private":"true",
+    "workspaces": ["ecare", "onboarding"],
+    "scripts": {
+        "ecare": "yarn workspace ecare",
+        "onboarding": "yarn workspace onboarding"
+    }
+}
