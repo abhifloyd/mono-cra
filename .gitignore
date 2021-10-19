@@ -3,10 +3,6 @@
 ecare/node_modules
 onboarding/node_modules
 
-# build
-ecare/public
-onboarding/public
-
 # File System
 *.DS_Store
 Thumbs.db
